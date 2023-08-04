@@ -8,6 +8,7 @@
     - Modern Data Stack (Airflow, dbt, Snowflake)
     - AWS Data Technologies (Glue, Athena, Kinesis, EMR, Redshift..)
     - Best pratices to architect efficient data workloads and pipelines
+    - Real time streaming data use cases using Kinesis/Kafka
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/keerthana-ashokkumar/)
  
