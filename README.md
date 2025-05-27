@@ -2,7 +2,7 @@
 
 - 😄 My pronouns are: She/Her
   
-- 🔭 I’m currently working as a Data Engineer at Amazon. I love to keep up with the ever changing data landscape (one can try lol...😄)
+- 🔭 I'm passionate about all things data—how it's collected, how it's transformed, and most importantly, how it empowers better decisions. I’m currently working as a Senior Data Engineer at SoFi and an Ex-Amazonian. I love to keep up with the ever changing data landscape (one can try lol...😄)
   
 - 🌱 I’m currently learning
     - Modern Data Stack (Airflow, dbt, Snowflake)
